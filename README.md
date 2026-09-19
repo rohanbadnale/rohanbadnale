@@ -1,5 +1,88 @@
-# 💫 About Me:
- 👋 Hi, I'm Rohan Badnale<br><br>🎓 Final-year BCA student at **Swami Vivekananda Mahavidyalaya, Udgir**<br>☁️ Interested in **Cloud Computing & DevOps**<br>🐧 Learning **Linux, AWS, Docker & CI/CD**<br>💻 Working with **Python, Flask, MySQL, HTML & CSS**<br>🚀 Building real-world projects and improving my problem-solving skills<br>📚 Currently exploring **Cloud Infrastructure, DevOps & Automation**<br><br>### 🛠️ Technologies<br><br>**Languages:** Python, Java, Bash<br>**Cloud:** AWS (EC2)<br>**DevOps:** Docker, Git, GitHub, CI/CD<br>**OS:** Linux, Windows<br>**Database:** MySQL<br>**Web:** HTML, CSS, JavaScript, Flask<br><br>> 💡 *Learning every day, building projects, and turning ideas into working solutions.*<br>
+                    @rohanbadnale
+
+             Hi there 👋 I'm Rohan Badnale
+
+        ☁️ Cloud & DevOps Enthusiast | Linux Learner
+        🐍 Python Developer | AWS | Docker | Git
+
+        [ LinkedIn ] [ GitHub ] [ Email ]
+
+        ─────────────────────────────────────
+
+                     👨‍💻 About Me
+
+   🎓 Final-year BCA student
+   ☁️ Interested in Cloud Computing & DevOps
+   🐧 Working with Linux and AWS
+   🐳 Learning Docker and CI/CD
+   🐍 Building applications with Python & Flask
+   🚀 Learning by building real-world projects
+
+                     🛠️ Tech Stack
+
+   AWS     Linux     Docker     Git
+   Python  Flask     MySQL     Bash
+   HTML    CSS       JavaScript
+
+                 🚀 Featured Projects
+
+   🏥 Medicare Hospital Management System
+   🗳️ College Online Voting System
+   🌐 Personal Portfolio
+   ☁️ AWS / Linux Projects
+
+                 📊 GitHub Statistics
+                 # 🚀 Featured Projects
+
+### 🏥 Medicare Hospital Management System
+
+A hospital management application designed to manage:
+
+- 👨‍⚕️ Doctors
+- 🧑‍🤝‍🧑 Patients
+- 📅 Appointments
+- 💊 Prescriptions
+- 🏥 Medical Records
+- 💰 Billing
+
+**Technology:** Python • Flask • MySQL • HTML • CSS • JavaScript • Docker
+
+---
+
+### 🗳️ College Online Voting System
+
+A web-based voting system designed for college elections.
+
+**Technology:** Python • Flask/Django • MySQL • HTML • CSS • JavaScript
+
+---
+
+### ☁️ AWS & Linux Projects
+
+Hands-on projects involving:
+
+- AWS EC2
+- Linux server administration
+- Apache
+- Security Groups
+- SSH
+- LAMP stack
+- Bash scripting
+- Docker
+
+---
+
+# 📚 Currently Learning
+
+
+☁️ AWS Cloud
+🐳 Docker
+🔄 CI/CD
+🐧 Linux Administration
+⚙️ DevOps
+📜 Bash Scripting
+🐍 Python
+🏗️ Infrastructure & Automation
 
 
 ## 🌐 Socials:
